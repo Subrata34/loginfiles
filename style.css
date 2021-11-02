@@ -1,0 +1,29 @@
+.image-style{
+   margin-left: 240px;
+   height: 270px;
+
+}
+.items-align{
+    margin-top: 150px;
+    display:flex;
+
+}
+.button-style{
+    margin-left: 120px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding-left:15px;
+    padding-right: 15px;
+}
+.items-user{
+    border-radius: 60px;
+    background-color: gold;
+
+    
+}
+.text-size{
+   margin-left: 100px;
+}
+.user-id{
+    padding-right: 15px;
+}
